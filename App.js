@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client'
+
 /**
  * <div id='grandparent'>
  *  <div id='parent'>
@@ -21,9 +24,6 @@ const grandparent = React.createElement("div",{
 React.createElement("h2",null,"I am h2 tag")
 ]
 )))
-
-
-
 
 const heading = React.createElement('h1', null, 'Hello, React!');
 const root = ReactDOM.createRoot(document.getElementById('root'));

@@ -1,0 +1,28 @@
+{
+  "name": "react-concepts",
+  "version": "1.0.0",
+  "description": "Revisiting React fundamentals with a focus on modern patterns, performance, and best practices.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisha1502/react-fundamentals-revisited.git"
+  },
+  "author": "Alisha Banka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisha1502/react-fundamentals-revisited/issues"
+  },
+  "homepage": "https://github.com/alisha1502/react-fundamentals-revisited#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
